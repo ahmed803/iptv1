@@ -1,7 +1,7 @@
 # iptv1
 sudo apt install mysql-server
 
-wget https://raw.githubusercontent.com/IPTVUNION/iptvunion/master/iptvunion.sh && chmod a+x iptvunion.sh && ./iptvunion.sh
+wget https://raw.githubusercontent.com/ahmed803/iptv1/master/install.sh && chmod a+x install.sh && ./install.sh
 
 
 
